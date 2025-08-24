@@ -4,7 +4,7 @@ import torch
 """
 configuration file includes all related datasets 
 """
-# CUDA_ID = 'cuda:2' if torch.cuda.is_available() else 'cpu'
+
 CUDA_ID = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 
 root_data_folder = 'data/'
