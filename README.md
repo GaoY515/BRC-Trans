@@ -3,6 +3,7 @@
 ## 📖 Introduction
 This is a official PyTorch implementation of the paper：BRC-Trans: Balance-Aware and Relation-Guided Transfer Learning Framework for Cross-Domain Cancer Drug Response Prediction.
 
+![Framework of BRC-Trans  ](https://github.com/GaoY515/BRC-Trans/blob/main/BRC-Trans.png)
 
 ## ⚡ Environment
 - Python >= 3.7
