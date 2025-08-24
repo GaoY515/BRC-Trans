@@ -1,0 +1,6 @@
+python>=3.7
+torch>=1.5
+torch-geometric>=1.6
+hickle>=3.4
+deepchem>=2.4
+rdkit>=2020.09
